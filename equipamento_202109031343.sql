@@ -1,0 +1,88 @@
+INSERT INTO public.equipamento (peça,valor,fk_equipe) VALUES
+	 ('Caixa de câmbio',456000,'Mercedes'),
+	 ('ECU',169000,'Mercedes'),
+	 ('Asa dianteira',146000,'Mercedes'),
+	 ('Asa traseira',94000,'Mercedes'),
+	 ('Tanque',135000,'Mercedes'),
+	 ('Volante',67000,'Mercedes'),
+	 ('Halo',25000,'Mercedes'),
+	 ('Jogo de pneus',3000,'Mercedes'),
+	 ('Caixa de câmbio',458000,'RBR'),
+	 ('ECU',165000,'RBR');
+INSERT INTO public.equipamento (peça,valor,fk_equipe) VALUES
+	 ('Asa dianteira',149000,'RBR'),
+	 ('Asa traseira',93000,'RBR'),
+	 ('Tanque',135000,'RBR'),
+	 ('Volante',68000,'RBR'),
+	 ('Halo',24000,'RBR'),
+	 ('Jogo de pneus',3000,'RBR'),
+	 ('Caixa de câmbio',455000,'McLaren'),
+	 ('ECU',164000,'McLaren'),
+	 ('Asa dianteira',145000,'McLaren'),
+	 ('Asa traseira',90000,'McLaren');
+INSERT INTO public.equipamento (peça,valor,fk_equipe) VALUES
+	 ('Tanque',132000,'McLaren'),
+	 ('Volante',65000,'McLaren'),
+	 ('Halo',24000,'McLaren'),
+	 ('Jogo de pneus',2800,'McLaren'),
+	 ('Caixa de câmbio',453000,'Aston Martin'),
+	 ('ECU',162000,'Aston Martin'),
+	 ('Asa dianteira',140000,'Aston Martin'),
+	 ('Asa traseira',90000,'Aston Martin'),
+	 ('Tanque',127000,'Aston Martin'),
+	 ('Volante',58000,'Aston Martin');
+INSERT INTO public.equipamento (peça,valor,fk_equipe) VALUES
+	 ('Halo',22000,'Aston Martin'),
+	 ('Jogo de pneus',2700,'Aston Martin'),
+	 ('Caixa de câmbio',452000,'Alpine'),
+	 ('ECU',159000,'Alpine'),
+	 ('Asa dianteira',139000,'Alpine'),
+	 ('Asa traseira',90000,'Alpine'),
+	 ('Tanque',125000,'Alpine'),
+	 ('Volante',58000,'Alpine'),
+	 ('Halo',22000,'Alpine'),
+	 ('Jogo de pneus',2700,'Alpine');
+INSERT INTO public.equipamento (peça,valor,fk_equipe) VALUES
+	 ('Caixa de câmbio',450000,'AlphaTauri'),
+	 ('ECU',158000,'AlphaTauri'),
+	 ('Asa dianteira',139000,'AlphaTauri'),
+	 ('Asa traseira',92000,'AlphaTauri'),
+	 ('Tanque',127000,'AlphaTauri'),
+	 ('Volante',56000,'AlphaTauri'),
+	 ('Halo',21000,'AlphaTauri'),
+	 ('Jogo de pneus',2700,'AlphaTauri'),
+	 ('Caixa de câmbio',455000,'Ferrari'),
+	 ('ECU',163000,'Ferrari');
+INSERT INTO public.equipamento (peça,valor,fk_equipe) VALUES
+	 ('Asa dianteira',142000,'Ferrari'),
+	 ('Asa traseira',92000,'Ferrari'),
+	 ('Tanque',132000,'Ferrari'),
+	 ('Volante',66000,'Ferrari'),
+	 ('Halo',23000,'Ferrari'),
+	 ('Jogo de pneus',2900,'Ferrari'),
+	 ('Caixa de câmbio',448000,'Alfa Romeo'),
+	 ('ECU',157000,'Alfa Romeo'),
+	 ('Asa dianteira',138000,'Alfa Romeo'),
+	 ('Asa traseira',80000,'Alfa Romeo');
+INSERT INTO public.equipamento (peça,valor,fk_equipe) VALUES
+	 ('Tanque',123000,'Alfa Romeo'),
+	 ('Volante',54000,'Alfa Romeo'),
+	 ('Halo',17000,'Alfa Romeo'),
+	 ('Jogo de pneus',2600,'Alfa Romeo'),
+	 ('Caixa de câmbio',442000,'Haas'),
+	 ('ECU',152000,'Haas'),
+	 ('Asa dianteira',135000,'Haas'),
+	 ('Asa traseira',80000,'Haas'),
+	 ('Tanque',115000,'Haas'),
+	 ('Volante',52000,'Haas');
+INSERT INTO public.equipamento (peça,valor,fk_equipe) VALUES
+	 ('Halo',15000,'Haas'),
+	 ('Jogo de pneus',2400,'Haas'),
+	 ('Caixa de câmbio',447000,'Williams'),
+	 ('ECU',156000,'Williams'),
+	 ('Asa dianteira',136000,'Williams'),
+	 ('Asa traseira',77000,'Williams'),
+	 ('Tanque',123000,'Williams'),
+	 ('Volante',55000,'Williams'),
+	 ('Halo',17000,'Williams'),
+	 ('Jogo de pneus',2700,'Williams');
